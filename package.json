@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kenzoarima/gitkata/issues"
   },
-  "homepage": "https://github.com/kenzoarima/gitkata#readme"
+  "homepage": "https://github.com/kenzoarima/gitkata#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
