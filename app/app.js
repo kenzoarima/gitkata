@@ -7,3 +7,4 @@ app.helloWorld = function() {
   console.log("Hello");
 };
 
+module.exports = app;
